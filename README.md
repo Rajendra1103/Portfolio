@@ -95,7 +95,7 @@ Your app will be available at: [http://localhost:5173](http://localhost:5173)
 
 ## 🖼️ Screenshots
 
-
+![image alt](https://github.com/Rajendra1103/Portfolio/blob/c263d6efd8d29971fbb812b1a9cd100379eb5893/s2.PNG)
 
 ---
 
