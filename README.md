@@ -3,6 +3,7 @@
 <div align="center">
   <br />
 <!--     <img src="./banner.png" alt="Portfolio Website Banner"> -->
+  ![image alt](https://github.com/Rajendra1103/Portfolio/blob/e1edd514022d8b365216765814341dccaaa1eb52/s1.PNG)
   </a>
   <br />
   <div>
